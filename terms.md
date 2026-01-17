@@ -40,20 +40,38 @@ By using the App, you agree that:
 
 ## Disclaimer
 
+### No Liability for Calculation Errors
+
+This app is provided for informational and entertainment purposes only. We are not responsible for any calculation errors, data inaccuracies, or losses that may result from using this application. Always verify important calculations independently.
+
+### Not for Accounting Purposes
+
+The data recorded in this app should not be relied upon for official accounting, bookkeeping, or financial reporting purposes. This app is designed as a personal tracking tool only.
+
+### IRS Compliance
+
+The IRS may not accept data from this app as official documentation for tax purposes. For tax advice and proper documentation of gambling wins and losses, please consult a qualified accountant or tax professional.
+
+### Seek Professional Advice
+
+Always consult with a licensed accountant or tax professional for advice regarding gambling income, deductions, and tax obligations. This app does not provide financial, legal, or tax advice.
+
 ### No Financial Advice
 
 The App provides tracking and statistics only. Nothing in the App constitutes financial, legal, or gambling advice. Past session results do not predict future outcomes.
 
-### Responsible Gaming
-
-If you or someone you know has a gambling problem, please seek help:
-
-- **National Council on Problem Gambling**: 1-800-522-4700
-- **Gamblers Anonymous**: [www.gamblersanonymous.org](https://www.gamblersanonymous.org)
-
 ### Accuracy
 
 While we strive to provide accurate calculations, we do not guarantee the accuracy of statistics, charts, or summaries displayed in the App. You are responsible for verifying important financial information.
+
+## Gambling Support Resources
+
+If you or someone you know has a gambling problem, help is available:
+
+- **National Problem Gambling Helpline**: 1-800-522-4700 (Available 24/7, free and confidential)
+- **Text Support**: Text 'HELP' to 233579
+- **National Council on Problem Gambling**: [www.ncpgambling.org](https://www.ncpgambling.org)
+- **Gamblers Anonymous**: [www.gamblersanonymous.org](https://www.gamblersanonymous.org)
 
 ## Limitation of Liability
 
