@@ -5,7 +5,7 @@ title: Terms of Service
 
 # Terms of Service
 
-**Last Updated: January 15, 2026**
+**Last Updated: January 30, 2026**
 
 ## Agreement to Terms
 
@@ -63,6 +63,29 @@ The App provides tracking and statistics only. Nothing in the App constitutes fi
 ### Accuracy
 
 While we strive to provide accurate calculations, we do not guarantee the accuracy of statistics, charts, or summaries displayed in the App. You are responsible for verifying important financial information.
+
+## In-App Purchases and Subscriptions
+
+### SessionTracker Premium
+
+The App offers an optional auto-renewable subscription ("SessionTracker Premium") that provides access to premium features including Comps & Expenses Tracking, Advanced Analytics, Premium Charts, and Export & Reports.
+
+### Subscription Terms
+
+- **Payment**: Payment is charged to your Apple ID account at confirmation of purchase.
+- **Auto-Renewal**: Subscriptions automatically renew unless canceled at least 24 hours before the end of the current billing period.
+- **Renewal Pricing**: Your account will be charged for renewal at the same price within 24 hours prior to the end of the current period.
+- **Managing Subscriptions**: You can manage or cancel your subscription at any time through your device's Settings → Apple ID → Subscriptions.
+- **Free Trial**: If a free trial is offered, any unused portion of the trial period is forfeited when you purchase a subscription.
+- **Cancellation**: No refunds are provided for the unused portion of any subscription term. After cancellation, you will retain access to premium features until the end of your current billing period.
+
+### Pricing
+
+Subscription prices are displayed in the App at the time of purchase and may vary by region. Prices are subject to change; however, any price changes will not affect active subscriptions until their next renewal.
+
+### Privacy Policy
+
+Our Privacy Policy, available at [Privacy Policy](privacy), describes how we handle your information when you use the App and its subscription features.
 
 ## Gambling Support Resources
 

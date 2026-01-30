@@ -7,7 +7,7 @@ title: Privacy Policy
 
 **Effective Date: January 16, 2026**
 
-This privacy policy applies to the SessionTracker app (hereby referred to as "Application") for mobile devices that was created by Jeffrey Ellin (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
+This privacy policy applies to the SessionTracker app (hereby referred to as "Application") for mobile devices that was created by Jeffrey Ellin (hereby referred to as "Service Provider") as a Freemium service. This service is intended for use "AS IS".
 
 ## Information Collection and Use
 
@@ -72,6 +72,14 @@ The Service Provider does not knowingly collect personally identifiable informat
 If you have reason to believe that a child has provided personally identifiable information to the Service Provider through the Application and/or Services, please contact the Service Provider via the [Support Page](support) so that they will be able to take the necessary actions.
 
 You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).
+
+## In-App Purchases and Subscriptions
+
+The Application offers an optional premium subscription ("SessionTracker Premium") that unlocks additional features. When you make an in-app purchase or subscribe:
+
+- **Payment Processing**: All payments are processed by Apple through your iTunes/App Store account. The Service Provider does not collect, store, or have access to your payment information (credit card numbers, billing address, etc.).
+- **Subscription Status**: The Application checks your subscription status locally on your device to determine which features to enable. This status information is not transmitted to the Service Provider.
+- **Purchase History**: Records of your purchases are managed by Apple and subject to [Apple's Privacy Policy](https://www.apple.com/privacy/).
 
 ## Security
 
