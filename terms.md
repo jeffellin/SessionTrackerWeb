@@ -122,6 +122,9 @@ If you have questions about these Terms, please contact us at:
 
 [Support Page](support)
 
+This agreement is between you and SessionTracker only, not with Apple Inc. Apple is not responsible for the App or its content.
+
+
 ---
 
 [Back to Home](/)
